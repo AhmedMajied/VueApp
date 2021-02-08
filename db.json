@@ -1,0 +1,7 @@
+{
+    "arr":[
+        {"name": "ahmed", "age":27},
+        {"name": "ahmed2", "age":29},
+        {"name": "ahmed3", "age":28}
+    ]
+}
